@@ -1,0 +1,32 @@
+.selected{
+    background-color: #9c0404;
+    border: 1px solid #9c0404;
+    color: white; 
+
+}
+.unselected{
+    background-color: white;
+    border: 1px solid white;
+    color: black;
+    border: 1px solid black;
+}
+
+.filt{
+    margin: 8px;
+    border-radius: 8px;
+    padding: 5px 10px;
+    font-size: 15px;
+    display: flex;
+}
+
+.filtTitle{
+    font-weight: bold;
+    text-align: center;
+    padding: 10px;
+
+}
+.filters{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap; 
+}

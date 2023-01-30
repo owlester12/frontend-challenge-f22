@@ -1,0 +1,25 @@
+.navBar{
+    width: 100%;
+    padding: 0.1rem;
+    padding-left: 50px;
+    border-bottom: 1px solid rgba(0, 0, 0, 0.1);
+    background-color: #041d5b;
+    color: white;
+    height: 10vh;
+    display: flex;
+    align-content: center;
+    justify-content: space-around;
+    margin: 0px;
+}
+.home{
+    border: 1px solid #9c0404;
+    background-color: #9c0404;
+    padding: 10px 10px;
+    border-radius: 8px;
+    color: white;
+    align-self: center;
+    font-size: 15px;
+    font-weight: bold;
+
+
+}

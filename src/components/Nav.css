@@ -1,0 +1,53 @@
+
+.navBar{
+    width: 100%;
+    padding: 0.1rem;
+    padding-left: 50px;
+    border-bottom: 1px solid rgba(0, 0, 0, 0.1);
+    background-color: #041d5b;
+    color: white;
+    height: 10vh;
+    display: flex;
+    align-content: center;
+    justify-content: space-around;
+    margin: 0px;
+}
+
+h2{
+}
+
+.form{
+    display: flex;
+    align-items: center;
+}
+.submit{
+
+    padding: 2px;
+    width: 50px;
+    border-top-right-radius: 8px;
+    border-bottom-right-radius: 8px;
+    border: 1px solid #9c0404;
+    background-color: #9c0404;
+    color: white;
+
+}
+.theInput{
+    min-width: 250px;
+    padding: 8px 16px;
+    border-top-left-radius: 8px;
+    border-bottom-left-radius: 8px;
+    border: 1px solid white;
+
+}
+.checkOut{
+    border: 1px solid #9c0404;
+    background-color: #9c0404;
+    padding: 10px 10px;
+    border-radius: 8px;
+    color: white;
+    align-self: center;
+    font-size: 15px;
+    font-weight: bold;
+
+
+}

@@ -1,0 +1,17 @@
+.cart{
+
+    border-bottom: 1px solid rgb(0, 0, 0, 0.1);
+
+}
+.courseCont{
+    border-bottom: 1px solid rgb(0,0,0,0.1);
+    padding: 10px;
+
+}
+.cartText{
+    border-bottom: 1px solid rgb(0,0,0,0.1);
+    padding: 10px;
+}
+.empty{
+    padding: 10px;
+}
